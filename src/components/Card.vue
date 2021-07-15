@@ -35,7 +35,7 @@ export default {
     .card {
         width: 20%;
         padding: 10px 15px;
-        font-family: $main-font;
+        max-height: 50%;
         
         .card-info {
             background-color: $nav-bg;
